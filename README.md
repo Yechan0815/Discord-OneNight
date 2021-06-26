@@ -1,6 +1,4 @@
 # OneNight
-One Night Ultimate Werewolf
+One Night Ultimate Werewolf, discord bot
 
-discord bot
-
-한밤의 늑대인간 - 예전에 만든 것 정리
+보드게임 '한밤의 늑대인간'을 디스코드 봇으로 만들었습니다
